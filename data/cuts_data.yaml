@@ -1,0 +1,18 @@
+names:
+- address
+- birth
+- card
+- id
+- name
+- origin
+- title
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: vietnamese-card-id
+  url: https://universe.roboflow.com/vietnamese-card-id/vietnamese-card-id/dataset/2
+  version: 2
+  workspace: vietnamese-card-id
+test: ../test/images
+train: Vietnamese-Card-ID--2/train/images
+val: Vietnamese-Card-ID--2/valid/images
